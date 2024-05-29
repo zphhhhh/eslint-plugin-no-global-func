@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-no-global-func",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "eslint-plugin-no-global-func",
   "main": "index.js",
   "scripts": {
