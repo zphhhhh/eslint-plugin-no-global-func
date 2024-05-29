@@ -1,0 +1,23 @@
+{
+  "name": "eslint-plugin-no-global-func",
+  "version": "0.0.1",
+  "description": "eslint-plugin-no-global-func",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zphhhhh/eslint-plugin-no-global-func.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "no-global-func"
+  ],
+  "author": "zphhhhh",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": "^8 || ^9"
+  }
+}
